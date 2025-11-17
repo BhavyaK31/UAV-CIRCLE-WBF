@@ -30,7 +30,7 @@ This is the code showcasing the use of Circular Temporal WBF for Single Drone Tr
     ```
 
 ## Running
-After you have downloaded the weights and dataset, and completed the setup, you need to set the following variables in main.ipynb
+After you have downloaded the weights and dataset, and completed the setup, you need to set the following variables in main.py
 
 ```bash
 input_folder = "path to dataset videos" 
@@ -39,4 +39,4 @@ csv_output_path = "path to where to store the resulting csv file"
 weights_path = "path to the YOLOv5 weigths"
 ```
 
-you can then run main.ipynb
+you can then run main.py
